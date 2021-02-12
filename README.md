@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋, I'm Krishna
+
+I'm a software engineer with more than 5 years of experience building web applications. I love staying up to date with new tech.
+
+- 🔭 I’m currently working on redoing my open health dashboard API in Node
+- 👯 I’m looking to collaborate on tools that make people more productive or promote wellness
+- 🌱 I’m currently learning functional programming and implementing GraphQL APIs
+- 💬 Ask me about the latest thing I'm reading
+- 😄 Pronouns: he, him, his
+- ⚡ Fun fact: I won a [killer queen tournament](https://killerqueenarcade.com/) at GENCON
 
 <!--
 **KrishnaRPatel/KrishnaRPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
