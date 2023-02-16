@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Krishna
 
-I'm a software engineer with more than 5 years of experience building web applications. I love staying up to date with new tech.
+I'm a software engineer with more than 7 years of experience building web applications. I love staying up to date with new tech.
 
 - 🔭 I’m currently working on redoing my open health dashboard API in Node
 - 👯 I’m looking to collaborate on tools that make people more productive or promote wellness
