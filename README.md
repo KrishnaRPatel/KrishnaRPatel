@@ -4,7 +4,7 @@ I'm a software engineer with more than 5 years of experience building web applic
 
 - 🔭 I’m currently working on redoing my open health dashboard API in Node
 - 👯 I’m looking to collaborate on tools that make people more productive or promote wellness
-- 🌱 I’m currently learning functional programming and implementing GraphQL APIs
+- 🌱 I’m currently learning functional programming, more effective TypeScript implementation, and more efficient Vim composition
 - 💬 Ask me about the latest thing I'm reading
 - 😄 Pronouns: he, him, his
 - ⚡ Fun fact: I won a [killer queen tournament](https://killerqueenarcade.com/) at GENCON
